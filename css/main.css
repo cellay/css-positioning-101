@@ -1,0 +1,19 @@
+div {
+	width: 200px;
+	height: 200px;
+	position: static;
+	background: #ee3e64;
+}
+
+.turquoise { 
+	background: #44accf;
+}
+
+.green { 
+	background: #b7d84b;
+}
+
+.relative {
+	position: relative;
+}
+
